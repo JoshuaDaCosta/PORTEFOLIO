@@ -1,8 +1,13 @@
-Olá, sou o Joshua Da Costa sou informático de gestão na qual terminei o ensino médio no Instituto Médio De Administração E Gestão de Viana na qual ingressei no mundo da programação com intuito de melhorar o que está bom e retificar o que está mal.
+> I TOLD YOU
 
-Propriamente estou a me especializar na programação web(página web, sites, aplicativos website), na qual uso tecnologias como: PYTHON, HTML, CSS, JAVASCRIPT
+# SAUDAÇÕES <br>
 
-<style>
-  background:brown;
-  color:white;
-</style>
+  Olá, sou o **Joshua Da Costa** estudante finalista médio técnico de *IMAG(instituto médio de administração e gestão de viana)* em Luanda/Angola.
+Bem,sou programador auto-didacta quase à dois anos e profissionalmente sou à seis meses. Pretendo estudar porque eu amo muito programação e tudo que tem haver com tecnologias inovadoras. 
+Podes me contactar através do meu portefólio que por sua vez tem as minhas redes socials e email.<br>  
+
+* [PORTEFOLIO](https://joshuadacosta.github.io/templates/index.html);
+* [CARTÃO PESSOAL](https://joshuadacosta.github.io/templates/card.html);
+* <a href="mailto:joshuacosta120@gmail.com">Joshua DaCosta</a><br>
+
+
