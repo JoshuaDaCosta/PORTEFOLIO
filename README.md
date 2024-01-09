@@ -2,3 +2,7 @@ Olá, sou o Joshua Da Costa sou informático de gestão na qual terminei o ensin
 
 Propriamente estou a me especializar na programação web(página web, sites, aplicativos website), na qual uso tecnologias como: PYTHON, HTML, CSS, JAVASCRIPT
 
+<style>
+  background:brown;
+  color:white;
+</style>
